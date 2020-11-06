@@ -156,7 +156,6 @@ a:hover, a:active {
     align-items: center;
     padding: 50px;
     box-shadow: 0px 0px 25px #A9D6D2;
-    border-radius: 0px 0px 0px 50px;
     justify-content: center;
 }
 
@@ -168,7 +167,7 @@ a:hover, a:active {
     width: 100%;
     justify-content: space-between;
     margin-bottom: 20px;
-    background: linear-gradient(55deg, #41EDDC 51%, #e4efee 100%);
+    background: linear-gradient(55deg, #75E6DB 51%, #e4efee 100%);
 }
 
 .skills {
